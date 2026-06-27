@@ -283,6 +283,6 @@ This project was developed as a healthcare analytics case study to demonstrate e
 
 ## 📎 Resources
 
-- 📊 **Full presentation:** [`Lowell_Hospital_Lisha_Final.pptx`](Lowell_Hospital_Lisha_Final.pptx) — includes slide-by-slide narrative, chart explanations, and recommendations
+- 📊 **Full presentation:** [`Lowell_Hospital_Lisha_Final.pptx`](Lowell_Hospital_Lisha_Final.pdf) — includes slide-by-slide narrative, chart explanations, and recommendations
 - 🏥 [HCAHPS Survey Information](https://www.hcahpsonline.org/)
 - 📋 [NDNQI — Nursing Quality Indicators](https://www.nursingquality.org/)
